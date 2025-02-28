@@ -4,3 +4,6 @@ instance/*
 .env
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Flask
+
+
+.venv
